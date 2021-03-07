@@ -44,8 +44,8 @@ Specialization in "Economics and Entrepreneurship".\
 Qualification - Bachelor in Economic Cybernetics.\
 ___
 ## **Languages**
-* English – B1
-* German  *(temporary residence in Germany from 2019 to the present)* – B1
+* English – B2
+* German  *(temporary residence in Germany from 2019 to the present)* – B2
 * Russian – native speaker
 * Ukrainian – native speaker
 ___
