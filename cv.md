@@ -4,7 +4,7 @@
 ## **Personal data**
 **Location** Dnipro, Ukraine\
 **Date of birth** 04.07.1983\
-**E-Mail** [oksana.vovere@gmail.com](oksana.vovere@gmail.com)\
+**E-Mail** oksana.vovere@gmail.com\
 **LinkedIn** [www.linkedin.com/in/oksana-vovere-9a76569b](https://www.linkedin.com/in/oksana-vovere-9a76569b/) \
 **Skype** oksana20110203
 
