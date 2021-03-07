@@ -1,0 +1,116 @@
+body {
+  display: inline-block;
+  margin: 0;
+  width: 100%;
+  font-family: "Montserrat";
+  text-align: center;
+  color: #314e52;
+  background-color: #f7f6e7;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2rem;
+  margin:5% auto;
+}
+
+h2 {
+  margin: 0 0 0.8rem;
+  padding: 0;
+}
+
+hr {
+  border-style: dotted;
+  border-color: #e7e6e1;
+  border-width: 0 0 0.5rem;
+  margin: 0 15%;
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  padding: 0 40%;
+  }
+
+  a {
+    text-decoration: none;
+    color: #6e7c7c;
+    font-weight: bold;
+    margin: 0;
+  }
+
+  a:hover {
+    color: #709fb0;
+  }
+
+#footer {
+  padding: 5%;
+  font-size: 1rem;
+
+}
+
+.tbl-lang {
+padding: 0 20% 0 35%;
+width: 100%;
+}
+
+.edu-period {
+  font-weight: bold;
+  padding: 1rem 0 0.5rem;
+}
+
+.cv {
+  font-size: 1.8rem;
+  margin: 0;
+  padding: 1%;
+  color: #6e7c7c;
+}
+
+.profile-photo {
+  width:75%;
+  border-radius: 100%;
+}
+
+mark {
+  background-color: #f7f6e7;
+  font-weight: bold;
+}
+
+nav {
+  display: inline-block;
+  position: relative;
+  text-align: right;
+  font-size: 0.9rem;
+}
+
+table {
+  text-align: left;
+  width: 100%;
+}
+
+td {
+  width:33%;
+  vertical-align: top;
+}
+
+p {
+  margin:0;
+}
+
+.cell-photo {
+  text-align: center;
+}
+
+.colored-section {
+  padding: 1% 15%;
+  background-color: #e7e6e1;
+}
+
+.white-section {
+  padding: 5% 15%;
+  background-color: #f7f6e7;
+}
+
+.special {
+  font-weight: bold;
+}
